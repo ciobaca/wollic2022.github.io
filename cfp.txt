@@ -1,0 +1,89 @@
+[Please distribute. Apologies for multiple postings]
+
+CALL FOR PAPERS
+
+WoLLIC 2022
+28th Workshop on Logic, Language, Information and Computation
+September 20 to 23, 2022
+Iași, Romania
+
+ORGANISATION
+Faculty of Computer Science, Alexandru Ioan Cuza University, Romania
+Centro de Informática, Universidade Federal de Pernambuco, Brazil
+
+CALL FOR PAPERS
+WoLLIC is an annual international forum on inter-disciplinary research involving formal logic, computing and programming theory, and natural language and reasoning. Each meeting includes invited talks and tutorials as well as contributed papers. The twenty-eighth WoLLIC will be held at the Faculty of Computer Science, Alexandru Ioan Cuza University, Iași, Romania, September 20 to 23, 2022.  It is scientifically sponsored by the European Association for Computer Science Logic (EACSL), the Interest Group in Pure and Applied Logics (IGPL), the The Association for Logic, Language and Information (FoLLI), the Association for Symbolic Logic (ASL) (tbc), the European Association for Theoretical Computer Science (EATCS) (tbc), and the Sociedade Brasileira de Lógica (SBL).
+
+ABOUT THE LOCATION
+Iași https://www.uaic.ro/en/iasi-2/
+
+PAPER SUBMISSION
+Contributions are invited on all pertinent subjects, with particular
+interest in cross-disciplinary topics. Typical but not exclusive areas of interest are: foundations of computing, programming and Artificial Intelligence (AI); novel computation models and paradigms; broad notions of proof and belief; proof mining, type theory, effective learnability and explainable AI; formal methods in software and hardware development; logical approach to natural language and reasoning; logics of programs, actions and resources; foundational aspects of information organization, search, flow, sharing, and protection; foundations of mathematics; philosophical logic; philosophy of language.
+Proposed contributions should be in English, and consist of a scholarly exposition accessible to the non-specialist, including motivation, background, and comparison with related works. Articles should be written in the LaTeX format of LNCS by Springer (see author's instructions at http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0). They must not exceed 12 pages, with up to 5 additional pages for references and technical appendices. The paper's main results must not be published or submitted for publication in refereed venues, including journals and other scientific meetings.
+It is expected that each accepted paper be presented at the meeting by one of its authors. (At least one author is required to pay the registration fee before granting that the paper will be published in the proceedings.) Papers must be submitted electronically at the WoLLIC 2022 EasyChair website https://easychair.org/conferences/?conf=wollic2022.
+
+PROCEEDINGS
+The proceedings of WoLLIC 2022, including both invited and contributed papers, will be published in advance of the meeting as a volume in Springer's LNCS series. In addition, abstracts will be published in the Conference Report section of the Logic Journal of the IGPL, and selected contributions will be published (after a new round of reviewing) as a special post-conference WoLLIC 2022 issue of Mathematical Structures in Computer Science (MSCS).
+
+INVITED SPEAKERS
+(TBA)
+
+IMPORTANT DATES
+April 30, 2022: Abstract deadline
+May 7, 2022: Full paper deadline
+June 15, 2022: Author notification
+June 26, 2022: Final version deadline (firm)
+
+PROGRAM COMMITTEE
+Arthur Azevedo de Amorim (Boston University)
+Agata Ciabattoni (Technische Universität Wien) (Co-Chair)
+Diana Costa (University of Lisbon)
+Hans van Ditmarsch (Open University of the Netherlands)
+Rajeev Goré (The Australian National University)
+Roman Kuznets (Technische Universität Wien)
+João Marcos (Univ Federal do Rio Grande do Norte)
+Larry Moss (Indiana University Bloomington)
+Valeria de Paiva (Topos Institute and PUC-Rio)
+Elaine Pimentel (Univ Federal do Rio Grande do Norte) (Co-Chair)
+Revantha Ramanayake (University of Groningen)
+Mehrnoosh Sadrzadeh (University College London)
+Alexandra Silva (Cornell University)
+Alex Simpson (University of Ljubljana)
+Sonja Smets (University of Amsterdam)
+Alwen Tiu (The Australian National University)
+Leon van der Torre (University of Luxembourg)
+Andrea Aler Tubella (Umeå University)
+Andres Villaveces (Universidad Nacional de Colombia)
+Renata Wassermann (Universidade de São Paulo)
+
+
+STEERING COMMITTEE
+Samson Abramsky, Anuj Dawar, Juliette Kennedy, Ulrich Kohlenbach, Daniel Leivant, Leonid Libkin, Lawrence Moss, Luke Ong, Valeria de Paiva, Ruy de Queiroz, Alexandra Silva, Renata Wassermann.
+
+ADVISORY COMMITTEE
+Johan van Benthem, Joe Halpern, Wilfrid Hodges, Angus Macintyre, Hiroakira Ono, Jouko Väänänen.
+
+ORGANISING COMMITTEE
+Ștefan Ciobâcă (Alexandru Ioan Cuza Univ) (Co-Chair)
+(more to be announced)
+Anjolina G. de Oliveira (Univ Federal de Pernambuco, Brasil)
+Ruy de Queiroz (Univ Federal de Pernambuco, Brasil) (co-chair)
+
+SCIENTIFIC SPONSORSHIP
+European Association for Computer Science Logic (EACSL)
+Interest Group in Pure and Applied Logics (IGPL)
+The Association for Logic, Language and Information (FoLLI)
+Association for Symbolic Logic (ASL) (tbc)
+European Association for Theoretical Computer Science (EATCS) (tbc)
+Sociedade Brasileira de Lógica (SBL) 
+
+SPECIAL SESSION: SCREENING OF MOVIES ABOUT MATHEMATICIANS
+It is planned to have a special session with the exhibition of a one-hour documentary film about a remarkable mathematician who is considered a father of modern differential geometry. "Taking the Long View: The Life of Shiing-shen Chern" (George Scisery, 2011) examines the life of a remarkable mathematician whose formidable mathematical contributions were matched by an approach and vision that helped build bridges between China and the West. The biographical documentary follows Shiing-shen Chern (1911-2004) through many of the most dramatic events of the 20th century, portraying a man who dedicated his life to pure mathematics with the style of a classical Chinese sage. (zalafilms.com)
+
+FURTHER INFORMATION
+Contact one of the Co-Chairs of the Organising Committee.
+
+WEB PAGE
+http://wollic.org/wollic2022/
+
